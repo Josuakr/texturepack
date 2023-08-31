@@ -1,0 +1,6 @@
+{
+	"ambientocclusion": false,
+	"parent": "block/peony_top",
+	"textures": {
+		"2": "block/peony1"
+	}}

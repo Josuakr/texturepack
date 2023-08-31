@@ -1,0 +1,173 @@
+{
+    "multipart": [
+		{
+			"apply": { "model": "minecraft:block/note_block" }
+		},
+		{ "when": { "instrument": "harp"}, "apply": { "model": "minecraft:block/instrument_harp" }},
+		{ "when": { "instrument": "harp"}, "apply": { "model": "minecraft:block/instrument_harp", "y": 90 }},
+		{ "when": { "instrument": "harp"}, "apply": { "model": "minecraft:block/instrument_harp", "x": 90 }},
+		
+		{ "when": { "instrument": "basedrum"}, "apply": { "model": "minecraft:block/instrument_basedrum" }},
+		{ "when": { "instrument": "basedrum"}, "apply": { "model": "minecraft:block/instrument_basedrum", "y": 90 }},
+		{ "when": { "instrument": "basedrum"}, "apply": { "model": "minecraft:block/instrument_basedrum", "x": 90 }},
+		
+		{ "when": { "instrument": "snare"}, "apply": { "model": "minecraft:block/instrument_snare" }},
+		{ "when": { "instrument": "snare"}, "apply": { "model": "minecraft:block/instrument_snare", "y": 90 }},
+		{ "when": { "instrument": "snare"}, "apply": { "model": "minecraft:block/instrument_snare", "x": 90 }},
+		
+		{ "when": { "instrument": "hat"}, "apply": { "model": "minecraft:block/instrument_hat" }},
+		{ "when": { "instrument": "hat"}, "apply": { "model": "minecraft:block/instrument_hat", "y": 90 }},
+		{ "when": { "instrument": "hat"}, "apply": { "model": "minecraft:block/instrument_hat", "x": 90 }},
+		
+		{ "when": { "instrument": "bass"}, "apply": { "model": "minecraft:block/instrument_bass" }},
+		{ "when": { "instrument": "bass"}, "apply": { "model": "minecraft:block/instrument_bass", "y": 90 }},
+		{ "when": { "instrument": "bass"}, "apply": { "model": "minecraft:block/instrument_bass", "x": 90 }},
+		
+		{ "when": { "instrument": "flute"}, "apply": { "model": "minecraft:block/instrument_flute" }},
+		{ "when": { "instrument": "flute"}, "apply": { "model": "minecraft:block/instrument_flute", "y": 90 }},
+		{ "when": { "instrument": "flute"}, "apply": { "model": "minecraft:block/instrument_flute", "x": 90 }},
+		
+		{ "when": { "instrument": "bell"}, "apply": { "model": "minecraft:block/instrument_bell" }},
+		{ "when": { "instrument": "bell"}, "apply": { "model": "minecraft:block/instrument_bell", "y": 90 }},
+		{ "when": { "instrument": "bell"}, "apply": { "model": "minecraft:block/instrument_bell", "x": 90 }},
+		
+		{ "when": { "instrument": "guitar"}, "apply": { "model": "minecraft:block/instrument_guitar" }},
+		{ "when": { "instrument": "guitar"}, "apply": { "model": "minecraft:block/instrument_guitar", "y": 90 }},
+		{ "when": { "instrument": "guitar"}, "apply": { "model": "minecraft:block/instrument_guitar", "x": 90 }},
+		
+		{ "when": { "instrument": "chime"}, "apply": { "model": "minecraft:block/instrument_chime" }},
+		{ "when": { "instrument": "chime"}, "apply": { "model": "minecraft:block/instrument_chime", "y": 90 }},
+		{ "when": { "instrument": "chime"}, "apply": { "model": "minecraft:block/instrument_chime", "x": 90 }},
+		
+		{ "when": { "instrument": "xylophone"}, "apply": { "model": "minecraft:block/instrument_xylophone" }},
+		{ "when": { "instrument": "xylophone"}, "apply": { "model": "minecraft:block/instrument_xylophone", "y": 90 }},
+		{ "when": { "instrument": "xylophone"}, "apply": { "model": "minecraft:block/instrument_xylophone", "x": 90 }},
+		
+		{ "when": { "instrument": "iron_xylophone"}, "apply": { "model": "minecraft:block/instrument_iron_xylophone" }},
+		{ "when": { "instrument": "iron_xylophone"}, "apply": { "model": "minecraft:block/instrument_iron_xylophone", "y": 90 }},
+		{ "when": { "instrument": "iron_xylophone"}, "apply": { "model": "minecraft:block/instrument_iron_xylophone", "x": 90 }},
+	
+		{ "when": { "instrument": "cow_bell"}, "apply": { "model": "minecraft:block/instrument_cow_bell" }},
+		{ "when": { "instrument": "cow_bell"}, "apply": { "model": "minecraft:block/instrument_cow_bell", "y": 90 }},
+		{ "when": { "instrument": "cow_bell"}, "apply": { "model": "minecraft:block/instrument_cow_bell", "x": 90 }},
+	
+		{ "when": { "instrument": "didgeridoo"}, "apply": { "model": "minecraft:block/instrument_didgeridoo" }},
+		{ "when": { "instrument": "didgeridoo"}, "apply": { "model": "minecraft:block/instrument_didgeridoo", "y": 90 }},
+		{ "when": { "instrument": "didgeridoo"}, "apply": { "model": "minecraft:block/instrument_didgeridoo", "x": 90 }},
+	
+		{ "when": { "instrument": "bit"}, "apply": { "model": "minecraft:block/instrument_bit" }},
+		{ "when": { "instrument": "bit"}, "apply": { "model": "minecraft:block/instrument_bit", "y": 90 }},
+		{ "when": { "instrument": "bit"}, "apply": { "model": "minecraft:block/instrument_bit", "x": 90 }},
+	
+		{ "when": { "instrument": "banjo"}, "apply": { "model": "minecraft:block/instrument_banjo" }},
+		{ "when": { "instrument": "banjo"}, "apply": { "model": "minecraft:block/instrument_banjo", "y": 90 }},
+		{ "when": { "instrument": "banjo"}, "apply": { "model": "minecraft:block/instrument_banjo", "x": 90 }},
+	
+		{ "when": { "instrument": "pling"}, "apply": { "model": "minecraft:block/instrument_pling" }},
+		{ "when": { "instrument": "pling"}, "apply": { "model": "minecraft:block/instrument_pling", "y": 90 }},
+		{ "when": { "instrument": "pling"}, "apply": { "model": "minecraft:block/instrument_pling", "x": 90 }},
+		
+		
+		
+		
+		{ "when": { "note": 0}, "apply": { "model": "minecraft:block/note_00" }},
+		{ "when": { "note": 0}, "apply": { "model": "minecraft:block/note_00", "y": 90 }},
+		{ "when": { "note": 0}, "apply": { "model": "minecraft:block/note_00", "x": 90 }},
+		
+		{ "when": { "note": 1}, "apply": { "model": "minecraft:block/note_01" }},
+		{ "when": { "note": 1}, "apply": { "model": "minecraft:block/note_01", "y": 90 }},
+		{ "when": { "note": 1}, "apply": { "model": "minecraft:block/note_01", "x": 90 }},
+		
+		{ "when": { "note": 2}, "apply": { "model": "minecraft:block/note_02" }},
+		{ "when": { "note": 2}, "apply": { "model": "minecraft:block/note_02", "y": 90 }},
+		{ "when": { "note": 2}, "apply": { "model": "minecraft:block/note_02", "x": 90 }},
+		
+		{ "when": { "note": 3}, "apply": { "model": "minecraft:block/note_03" }},
+		{ "when": { "note": 3}, "apply": { "model": "minecraft:block/note_03", "y": 90 }},
+		{ "when": { "note": 3}, "apply": { "model": "minecraft:block/note_03", "x": 90 }},
+		
+		{ "when": { "note": 4}, "apply": { "model": "minecraft:block/note_04" }},
+		{ "when": { "note": 4}, "apply": { "model": "minecraft:block/note_04", "y": 90 }},
+		{ "when": { "note": 4}, "apply": { "model": "minecraft:block/note_04", "x": 90 }},
+		
+		{ "when": { "note": 5}, "apply": { "model": "minecraft:block/note_05" }},
+		{ "when": { "note": 5}, "apply": { "model": "minecraft:block/note_05", "y": 90 }},
+		{ "when": { "note": 5}, "apply": { "model": "minecraft:block/note_05", "x": 90 }},
+		
+		{ "when": { "note": 6}, "apply": { "model": "minecraft:block/note_06" }},
+		{ "when": { "note": 6}, "apply": { "model": "minecraft:block/note_06", "y": 90 }},
+		{ "when": { "note": 6}, "apply": { "model": "minecraft:block/note_06", "x": 90 }},
+		
+		{ "when": { "note": 7}, "apply": { "model": "minecraft:block/note_07" }},
+		{ "when": { "note": 7}, "apply": { "model": "minecraft:block/note_07", "y": 90 }},
+		{ "when": { "note": 7}, "apply": { "model": "minecraft:block/note_07", "x": 90 }},
+		
+		{ "when": { "note": 8}, "apply": { "model": "minecraft:block/note_08" }},
+		{ "when": { "note": 8}, "apply": { "model": "minecraft:block/note_08", "y": 90 }},
+		{ "when": { "note": 8}, "apply": { "model": "minecraft:block/note_08", "x": 90 }},
+		
+		{ "when": { "note": 9}, "apply": { "model": "minecraft:block/note_09" }},
+		{ "when": { "note": 9}, "apply": { "model": "minecraft:block/note_09", "y": 90 }},
+		{ "when": { "note": 9}, "apply": { "model": "minecraft:block/note_09", "x": 90 }},
+		
+		{ "when": { "note": 10}, "apply": { "model": "minecraft:block/note_10" }},
+		{ "when": { "note": 10}, "apply": { "model": "minecraft:block/note_10", "y": 90 }},
+		{ "when": { "note": 10}, "apply": { "model": "minecraft:block/note_10", "x": 90 }},
+		
+		{ "when": { "note": 11}, "apply": { "model": "minecraft:block/note_11" }},
+		{ "when": { "note": 11}, "apply": { "model": "minecraft:block/note_11", "y": 90 }},
+		{ "when": { "note": 11}, "apply": { "model": "minecraft:block/note_11", "x": 90 }},
+		
+		{ "when": { "note": 12}, "apply": { "model": "minecraft:block/note_12" }},
+		{ "when": { "note": 12}, "apply": { "model": "minecraft:block/note_12", "y": 90 }},
+		{ "when": { "note": 12}, "apply": { "model": "minecraft:block/note_12", "x": 90 }},
+		
+		{ "when": { "note": 13}, "apply": { "model": "minecraft:block/note_13" }},
+		{ "when": { "note": 13}, "apply": { "model": "minecraft:block/note_13", "y": 90 }},
+		{ "when": { "note": 13}, "apply": { "model": "minecraft:block/note_13", "x": 90 }},
+		
+		{ "when": { "note": 14}, "apply": { "model": "minecraft:block/note_14" }},
+		{ "when": { "note": 14}, "apply": { "model": "minecraft:block/note_14", "y": 90 }},
+		{ "when": { "note": 14}, "apply": { "model": "minecraft:block/note_14", "x": 90 }},
+		
+		{ "when": { "note": 15}, "apply": { "model": "minecraft:block/note_15" }},
+		{ "when": { "note": 15}, "apply": { "model": "minecraft:block/note_15", "y": 90 }},
+		{ "when": { "note": 15}, "apply": { "model": "minecraft:block/note_15", "x": 90 }},
+		
+		{ "when": { "note": 16}, "apply": { "model": "minecraft:block/note_16" }},
+		{ "when": { "note": 16}, "apply": { "model": "minecraft:block/note_16", "y": 90 }},
+		{ "when": { "note": 16}, "apply": { "model": "minecraft:block/note_16", "x": 90 }},
+		
+		{ "when": { "note": 17}, "apply": { "model": "minecraft:block/note_17" }},
+		{ "when": { "note": 17}, "apply": { "model": "minecraft:block/note_17", "y": 90 }},
+		{ "when": { "note": 17}, "apply": { "model": "minecraft:block/note_17", "x": 90 }},
+		
+		{ "when": { "note": 18}, "apply": { "model": "minecraft:block/note_18" }},
+		{ "when": { "note": 18}, "apply": { "model": "minecraft:block/note_18", "y": 90 }},
+		{ "when": { "note": 18}, "apply": { "model": "minecraft:block/note_18", "x": 90 }},
+		
+		{ "when": { "note": 19}, "apply": { "model": "minecraft:block/note_19" }},
+		{ "when": { "note": 19}, "apply": { "model": "minecraft:block/note_19", "y": 90 }},
+		{ "when": { "note": 19}, "apply": { "model": "minecraft:block/note_19", "x": 90 }},
+		
+		{ "when": { "note": 20}, "apply": { "model": "minecraft:block/note_20" }},
+		{ "when": { "note": 20}, "apply": { "model": "minecraft:block/note_20", "y": 90 }},
+		{ "when": { "note": 20}, "apply": { "model": "minecraft:block/note_20", "x": 90 }},
+		
+		{ "when": { "note": 21}, "apply": { "model": "minecraft:block/note_21" }},
+		{ "when": { "note": 21}, "apply": { "model": "minecraft:block/note_21", "y": 90 }},
+		{ "when": { "note": 21}, "apply": { "model": "minecraft:block/note_21", "x": 90 }},
+		
+		{ "when": { "note": 22}, "apply": { "model": "minecraft:block/note_22" }},
+		{ "when": { "note": 22}, "apply": { "model": "minecraft:block/note_22", "y": 90 }},
+		{ "when": { "note": 22}, "apply": { "model": "minecraft:block/note_22", "x": 90 }},
+		
+		{ "when": { "note": 23}, "apply": { "model": "minecraft:block/note_23" }},
+		{ "when": { "note": 23}, "apply": { "model": "minecraft:block/note_23", "y": 90 }},
+		{ "when": { "note": 23}, "apply": { "model": "minecraft:block/note_23", "x": 90 }},
+		
+		{ "when": { "note": 24}, "apply": { "model": "minecraft:block/note_24" }},
+		{ "when": { "note": 24}, "apply": { "model": "minecraft:block/note_24", "y": 90 }},
+		{ "when": { "note": 24}, "apply": { "model": "minecraft:block/note_24", "x": 90 }}
+	]
+}

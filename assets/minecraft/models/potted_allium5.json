@@ -1,0 +1,6 @@
+{
+	"parent": "block/potted_allium",
+	"ambientocclusion": false,
+	"textures": {
+		"plant": "block/allium5"
+	}}

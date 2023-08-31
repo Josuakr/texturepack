@@ -1,0 +1,23 @@
+{
+	"multipart": [
+		{
+			"apply": { "model": "block/bookshelf" }
+		},
+		{
+			"apply": [
+				{ "model": "block/bookshelf_books_top" },
+				{ "model": "block/bookshelf_books_top", "y": 90 },
+				{ "model": "block/bookshelf_books_top", "y": 180 },
+				{ "model": "block/bookshelf_books_top", "y": 270 }
+			]
+		},
+		{
+			"apply": [
+				{ "model": "block/bookshelf_books_bottom" },
+				{ "model": "block/bookshelf_books_bottom", "y": 90 },
+				{ "model": "block/bookshelf_books_bottom", "y": 180 },
+				{ "model": "block/bookshelf_books_bottom", "y": 270 }
+			]
+		}
+	]
+}

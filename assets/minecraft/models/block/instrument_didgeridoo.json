@@ -1,0 +1,21 @@
+{
+	"__comment": "Designed by Sphax with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"instrument": "block/instrument"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "instrument",
+			"from": [ 3.49, 4.99, -0.01 ],
+			"to": [ 9.5, 11.01, 16.01 ],
+			"faces": {
+				"down": { "uv": [ 14.5, 12, 15, 12.5 ], "texture": "#instrument" },
+				"up": { "uv": [ 14.5, 12, 15, 12.5 ], "texture": "#instrument" },
+				"north": { "uv": [ 0, 4, 4, 8 ], "texture": "#instrument" },
+				"south": { "uv": [ 0, 4, 4, 8 ], "texture": "#instrument" },
+				"west": { "uv": [ 14.5, 12, 15, 12.5 ], "texture": "#instrument" },
+				"east": { "uv": [ 14.5, 12, 15, 12.5 ], "texture": "#instrument" }
+			}
+		}
+	]
+}

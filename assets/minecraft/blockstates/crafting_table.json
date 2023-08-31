@@ -1,0 +1,9 @@
+{
+	"__comment": "Designed by Sphax for PureBDcraft - http://bdcraft.net",
+    "variants": {
+        "": [
+			{ "model": "block/crafting_table" },
+			{ "model": "block/crafting_table", "y": 90 }
+		]
+    }
+}

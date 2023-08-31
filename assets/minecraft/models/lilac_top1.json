@@ -1,0 +1,6 @@
+{
+	"ambientocclusion": false,
+	"parent": "block/lilac_top",
+	"textures": {
+		"1": "block/lilac1"
+	}}

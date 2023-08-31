@@ -1,0 +1,7 @@
+{
+	"parent": "block/potted_azure_bluet",
+	"ambientocclusion": false,
+	"textures": {
+		"plant": "block/azure_bluet1"
+	}
+}

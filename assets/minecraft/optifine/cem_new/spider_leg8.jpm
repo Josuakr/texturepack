@@ -1,0 +1,19 @@
+{
+"textureSize": [96, 64],
+"rotate": [90, -90, 0],
+"invertAxis": "xz",
+"scale": 1,
+"credit": "By DraminOver",
+"boxes": 
+	[
+		{
+			"id": "leftleg4",
+			"coordinates": [-1, -1, -1, 2, 16, 2],
+			"uvEast": [56, 48, 58, 64],
+			"uvNorth": [58, 48, 60, 64],
+			"uvWest": [60, 48, 62, 64],
+			"uvSouth": [62, 48, 64, 64],
+			"uvDown": [64, 48, 60, 50]
+		}
+	]
+}

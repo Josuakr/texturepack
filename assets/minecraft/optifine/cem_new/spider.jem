@@ -1,0 +1,66 @@
+{
+  "credit": "By DraminOver",     
+  "models": 
+  [
+	{
+		"part": "leg1",
+		"model": "spider_leg1.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "leg2",
+		"model": "spider_leg2.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "leg3",
+		"model": "spider_leg3.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "leg4",
+		"model": "spider_leg4.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "leg5",
+		"model": "spider_leg5.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "leg6",
+		"model": "spider_leg6.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "leg7",
+		"model": "spider_leg7.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "leg8",
+		"model": "spider_leg8.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "body",
+		"model": "spider_body.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "body",
+		"model": "spider_claw.jpm",
+		"attach": "true"
+    },
+	{
+		"part": "neck",
+		"model": "NO.jpm",
+		"attach": "false"
+    },
+	{
+		"part": "head",
+		"model": "spider_head.jpm",
+		"attach": "false"
+    }
+  ]
+}

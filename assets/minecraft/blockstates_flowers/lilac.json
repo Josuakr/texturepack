@@ -1,0 +1,45 @@
+{
+  "variants": {
+    "half=lower":
+    [{"model": "minecraft:block/lilac_bottom"},
+      {"model": "minecraft:block/lilac_bottom", "y": 90},
+      {"model": "minecraft:block/lilac_bottom", "y": 180},
+      {"model": "minecraft:block/lilac_bottom", "y": 270},
+    
+      {"model": "minecraft:block/lilac_bottom1"},
+      {"model": "minecraft:block/lilac_bottom1", "y": 90},
+      {"model": "minecraft:block/lilac_bottom1", "y": 180},
+      {"model": "minecraft:block/lilac_bottom1", "y": 270},
+    
+      {"model": "minecraft:block/lilac_bottom2"},
+      {"model": "minecraft:block/lilac_bottom2", "y": 90},
+      {"model": "minecraft:block/lilac_bottom2", "y": 180},
+      {"model": "minecraft:block/lilac_bottom2", "y": 270},
+    
+      {"model": "minecraft:block/lilac_bottom3"},
+      {"model": "minecraft:block/lilac_bottom3", "y": 90},
+      {"model": "minecraft:block/lilac_bottom3", "y": 180},
+      {"model": "minecraft:block/lilac_bottom3", "y": 270}],
+
+    "half=upper":
+    [{"model": "minecraft:block/lilac_top"},
+      {"model": "minecraft:block/lilac_top", "y": 90},
+      {"model": "minecraft:block/lilac_top", "y": 180},
+      {"model": "minecraft:block/lilac_top", "y": 270},
+    
+      {"model": "minecraft:block/lilac_top1"},
+      {"model": "minecraft:block/lilac_top1", "y": 90},
+      {"model": "minecraft:block/lilac_top1", "y": 180},
+      {"model": "minecraft:block/lilac_top1", "y": 270},
+    
+      {"model": "minecraft:block/lilac_top2"},
+      {"model": "minecraft:block/lilac_top2", "y": 90},
+      {"model": "minecraft:block/lilac_top2", "y": 180},
+      {"model": "minecraft:block/lilac_top2", "y": 270},
+    
+      {"model": "minecraft:block/lilac_top3"},
+      {"model": "minecraft:block/lilac_top3", "y": 90},
+      {"model": "minecraft:block/lilac_top3", "y": 180},
+      {"model": "minecraft:block/lilac_top3", "y": 270}]
+  }
+}

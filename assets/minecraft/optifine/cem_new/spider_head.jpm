@@ -1,0 +1,17 @@
+{
+"textureSize": [96, 64],
+"credit": "By DraminOver",
+"boxes": 
+	[
+		{
+			"id": "spiderhead",
+			"coordinates": [-4, -4, -8, 8, 8, 8],
+			"uvEast": [0, 8, 8, 16],
+			"uvNorth": [8, 8, 16, 16],
+			"uvWest": [16, 8, 24, 16],
+			"uvSouth": [24, 8, 32, 16],
+			"uvUp": [16, 8, 8, 0],
+			"uvDown": [24, 0, 16, 8]
+		}
+	]
+}

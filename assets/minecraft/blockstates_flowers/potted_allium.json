@@ -1,0 +1,46 @@
+{
+"multipart":[
+{"apply":[{"model":"block/flower_pot"}]},
+
+
+{"apply":[{"model": "block/potted_allium"},
+    {"model": "block/potted_allium", "y": 90},
+    {"model": "block/potted_allium", "y": 180},
+    {"model": "block/potted_allium", "y": 270},
+  
+    {"model": "block/potted_allium1"},
+    {"model": "block/potted_allium1", "y": 90},
+    {"model": "block/potted_allium1", "y": 180},
+    {"model": "block/potted_allium1", "y": 270},
+  
+    {"model": "block/potted_allium2"},
+    {"model": "block/potted_allium2", "y": 90},
+    {"model": "block/potted_allium2", "y": 180},
+    {"model": "block/potted_allium2", "y": 270},
+  
+    {"model": "block/potted_allium3"},
+    {"model": "block/potted_allium3", "y": 90},
+    {"model": "block/potted_allium3", "y": 180},
+    {"model": "block/potted_allium3", "y": 270},
+  
+    {"model": "block/potted_allium4"},
+    {"model": "block/potted_allium4", "y": 90},
+    {"model": "block/potted_allium4", "y": 180},
+    {"model": "block/potted_allium4", "y": 270},
+  
+    {"model": "block/potted_allium5"},
+    {"model": "block/potted_allium5", "y": 90},
+    {"model": "block/potted_allium5", "y": 180},
+    {"model": "block/potted_allium5", "y": 270},
+  
+    {"model": "block/potted_allium6"},
+    {"model": "block/potted_allium6", "y": 90},
+    {"model": "block/potted_allium6", "y": 180},
+    {"model": "block/potted_allium6", "y": 270},
+  
+    {"model": "block/potted_allium7"},
+    {"model": "block/potted_allium7", "y": 90},
+    {"model": "block/potted_allium7", "y": 180},
+    {"model": "block/potted_allium7", "y": 270}]}
+]
+}

@@ -1,0 +1,52 @@
+{
+    "variants": {
+        "power=0": {
+            "model": "block/target_power/0"
+        },
+        "power=1": {
+            "model": "block/target_power/1"
+        },
+        "power=2": {
+            "model": "block/target_power/2"
+        },
+        "power=3": {
+            "model": "block/target_power/3"
+        },
+        "power=4": {
+            "model": "block/target_power/4"
+        },
+        "power=5": {
+            "model": "block/target_power/5"
+        },
+        "power=6": {
+            "model": "block/target_power/6"
+        },
+        "power=7": {
+            "model": "block/target_power/7"
+        },
+        "power=8": {
+            "model": "block/target_power/8"
+        },
+        "power=9": {
+            "model": "block/target_power/9"
+        },
+        "power=10": {
+            "model": "block/target_power/10"
+        },
+        "power=11": {
+            "model": "block/target_power/11"
+        },
+        "power=12": {
+            "model": "block/target_power/12"
+        },
+        "power=13": {
+            "model": "block/target_power/13"
+        },
+        "power=14": {
+            "model": "block/target_power/14"
+        },
+        "power=15": {
+            "model": "block/target_power/15"
+        }
+    }
+}

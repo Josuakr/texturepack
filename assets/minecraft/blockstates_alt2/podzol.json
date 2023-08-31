@@ -1,0 +1,129 @@
+{
+  "variants": {
+    "snowy=false": [
+      {
+        "model": "minecraft:block/podzol"
+      },
+	  {
+        "model": "minecraft:block/podzol1"
+      },
+	  {
+        "model": "minecraft:block/podzol2"
+      },
+	  {
+        "model": "minecraft:block/podzol3"
+      },
+	  {
+        "model": "minecraft:block/podzol4"
+      },
+	  {
+        "model": "minecraft:block/podzol5"
+      },
+	  {
+        "model": "minecraft:block/podzol6"
+      },
+      {
+        "model": "minecraft:block/podzol",
+        "y": 90
+      },
+	  {
+        "model": "minecraft:block/podzol1",
+        "y": 90
+      },
+	  {
+        "model": "minecraft:block/podzol2",
+        "y": 90
+      },
+	  {
+        "model": "minecraft:block/podzol3",
+        "y": 90
+      },
+	  {
+        "model": "minecraft:block/podzol4",
+        "y": 90
+      },
+	  {
+        "model": "minecraft:block/podzol5",
+        "y": 90
+      },
+	  {
+        "model": "minecraft:block/podzol6",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/podzol",
+        "y": 180
+      },
+	  {
+        "model": "minecraft:block/podzol1",
+        "y": 180
+      },
+	  {
+        "model": "minecraft:block/podzol2",
+        "y": 180
+      },
+	  {
+        "model": "minecraft:block/podzol3",
+        "y": 180
+      },
+	  {
+        "model": "minecraft:block/podzol4",
+        "y": 180
+      },
+	  {
+        "model": "minecraft:block/podzol5",
+        "y": 180
+      },
+	  {
+        "model": "minecraft:block/podzol6",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/podzol",
+        "y": 270
+      },
+	  {
+        "model": "minecraft:block/podzol1",
+        "y": 270
+      },
+	  {
+        "model": "minecraft:block/podzol2",
+        "y": 270
+      },
+	  {
+        "model": "minecraft:block/podzol3",
+        "y": 270
+      },
+	  {
+        "model": "minecraft:block/podzol4",
+        "y": 270
+      },
+	  {
+        "model": "minecraft:block/podzol5",
+        "y": 270
+      },
+	  {
+        "model": "minecraft:block/podzol6",
+        "y": 270
+      }
+    ],
+    "snowy=true": [{
+      "model": "minecraft:block/grass_block_snow"
+    },
+	{
+      "model": "minecraft:block/grass_block_snow1"
+    },
+	{
+      "model": "minecraft:block/grass_block_snow2"
+    },
+	{
+      "model": "minecraft:block/grass_block_snow3"
+    },
+	{
+      "model": "minecraft:block/grass_block_snow4"
+    },
+	{
+      "model": "minecraft:block/grass_block_snow5"
+    }]
+  }
+}

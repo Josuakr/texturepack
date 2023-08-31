@@ -1,0 +1,6 @@
+{
+	"ambientocclusion": false,
+	"parent":"block/rose_bush_top",
+	"textures": {
+		"2": "block/rose6"
+	}}

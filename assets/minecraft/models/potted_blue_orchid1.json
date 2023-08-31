@@ -1,0 +1,6 @@
+{
+	"parent": "block/potted_blue_orchid",
+	"ambientocclusion": false,
+	"textures": {
+		"plant": "block/blue_orchid1"
+	}}

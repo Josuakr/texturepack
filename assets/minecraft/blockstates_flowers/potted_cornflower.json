@@ -1,0 +1,11 @@
+{
+"multipart":[
+{"apply":[{"model":"block/flower_pot"}]},
+
+
+{"apply":[{"model": "block/potted_cornflower"},
+    {"model": "block/potted_cornflower", "y": 90},
+    {"model": "block/potted_cornflower", "y": 180},
+    {"model": "block/potted_cornflower", "y": 270}]}
+]
+}
