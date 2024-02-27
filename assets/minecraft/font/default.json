@@ -202,6 +202,24 @@
             ]
         },
         {
+      	 "type": "bitmap",
+      	 "file": "icons:gui/container/brewing_guide_left.png",
+      	 "ascent": 13,
+      	 "height": 166,
+      	 "chars": [
+	    "\uEff1"
+	    ]
+        },
+        {
+      	 "type": "bitmap",
+      	 "file": "icons:gui/container/brewing_guide_right.png",
+      	 "ascent": 27,
+      	 "height": 193,
+      	 "chars": [
+            "\uEff2"
+	    ]
+        },
+        {
          "type": "bitmap",
          "file": "icons:advancement/advancement_groups.png",
          "ascent": 8,
