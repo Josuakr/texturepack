@@ -397,7 +397,7 @@
   "container.repair.cost":					"Enchantment Cost: %1$s§f\uDB80\uDE10§r",
 
 //Brewing
-  "container.brewing": "\u00a7f\ueff1                                      \u00a7f\ueff2",
+  "container.brewing": "\u00a7f\ueff1                                        \u00a7f\ueff2",
 
 //Enchanting Table
   "container.enchant.lapis.one":			"1 §f\uDB80\uDE12§r Lapis Lazuli",

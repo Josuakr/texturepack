@@ -204,8 +204,8 @@
         {
       	 "type": "bitmap",
       	 "file": "icons:gui/container/brewing_guide_left.png",
-      	 "ascent": 13,
-      	 "height": 166,
+      	 "ascent": 22,
+      	 "height": 150,
       	 "chars": [
 	    "\uEff1"
 	    ]
@@ -213,8 +213,8 @@
         {
       	 "type": "bitmap",
       	 "file": "icons:gui/container/brewing_guide_right.png",
-      	 "ascent": 27,
-      	 "height": 193,
+      	 "ascent": 22,
+      	 "height": 180,
       	 "chars": [
             "\uEff2"
 	    ]
