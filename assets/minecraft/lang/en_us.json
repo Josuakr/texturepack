@@ -1437,5 +1437,9 @@
   "item.minecraft.tipped_arrow.effect.levitation": "Dart of Levitation",
   "item.minecraft.tipped_arrow.effect.luck": "Dart of Luck",
   "item.minecraft.tipped_arrow.effect.turtle_master": "Dart of the Turtle Master",
-  "item.minecraft.tipped_arrow.effect.slow_falling": "Dart of Slow Falling"
+  "item.minecraft.tipped_arrow.effect.slow_falling": "Dart of Slow Falling",
+
+//Weed
+  "item.minecraft.wheat_seeds": "Weed Seeds",
+  "item.minecraft.wheat": "Weed"
 }
